@@ -6,4 +6,6 @@
   * Sentimental Analysis
   * Analysis of Readability
   * Average Number of Words Per Sentence
-  * Etc. 
+  * Etc.
+
+3. Also use Bert Sentimental Analysis
