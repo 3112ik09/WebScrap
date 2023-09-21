@@ -7,5 +7,5 @@
   * Analysis of Readability
   * Average Number of Words Per Sentence
   * Etc.
-
+![alt text](https://github.com/3112ik09/WebScrap/blob/master/Image/output.png?raw=true) 
 3. Also use Bert Sentimental Analysis
